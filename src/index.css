@@ -1,0 +1,9 @@
+@import "tailwindcss";
+ @plugin "daisyui" {
+   themes: dim --default, dim --prefersdark;
+ }
+
+ @font-face {
+  font-family: "Geist-Regular";
+  src: url("/src/Geist-Regular.ttf") format("truetype");
+ }
