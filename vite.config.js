@@ -5,7 +5,7 @@ import tailwindcss from '@tailwindcss/vite'
 
 // https://vite.dev/config/
 export default defineConfig({
-  base: '/manaone23/',
+  base: '/hades2/',
   plugins: [react(),
   tailwindcss(),
   ],
